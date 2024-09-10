@@ -11,15 +11,17 @@ The tech stack used in this project are:
 Running tests
 
 Type in Terminal this command:
+
     behave features 
+        
 
 
 Report
 
 Type in Terminal this command:
-   allure serve Report:
+        behave features allure serve Report:
 
 To create new allure Report 
 Use this commnand:
-    behave -f allure_behave.formatter:AllureFormatter -o Report
+         behave -f allure_behave.formatter:AllureFormatter -o Report 
 
