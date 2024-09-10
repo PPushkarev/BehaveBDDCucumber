@@ -11,7 +11,7 @@ Getting Started
 
 Setup your machine.
 
-    Python > 3.7
+    Python > 3.11
     Install VSCode & open the repo
     On Terminal, navigate to repo and run following commands a. Create Virtual Env python3 -m venv behavex-env b. Activate Virtual Env source behavex-env/bin/activate c. Install Packages pip3 install -r requirements.txt
 
