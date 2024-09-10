@@ -7,9 +7,7 @@ The tech stack used in this project are:
     PIP3 as the build tool
     VSCode as the preferred IDE for writing python code.
 
-
 Running tests
-
 Type in Terminal this command:
 
     behave features 
@@ -17,7 +15,6 @@ Type in Terminal this command:
 
 
 Report
-
 Type in Terminal this command:
         behave features allure serve Report:
 
