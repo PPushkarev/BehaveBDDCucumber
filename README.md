@@ -19,7 +19,7 @@ Type in Terminal this command:
     behave features 
         
 
-Report
+Make HTML report
 Type in Terminal this command:
 
     allure serve Report
